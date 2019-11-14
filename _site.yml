@@ -1,0 +1,8 @@
+name: "Craft Beer EDA Website"
+navbar:
+  title: "Craft Beer EDA"
+    -left: "Home"
+     href: {index.html}
+    -text: "Beer CaseStudy EDA"
+     href: {CaseStudy.html}   
+ 
