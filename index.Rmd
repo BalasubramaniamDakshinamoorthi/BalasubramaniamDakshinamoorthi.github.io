@@ -1,6 +1,6 @@
 ---
 title: "Craft Beer EDA WebSite"
-author: "BalasubramaniamDakshinamoorthi"
+author: "Balasubramaniam Dakshinamoorthi"
 date: "11/13/2019"
 output: html_document
 ---
